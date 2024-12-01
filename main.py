@@ -12,7 +12,7 @@ from utils.helper_func import convert_file_name_to_namespace
 from openai import OpenAI
 from pydantic import BaseModel
 from typing import List
-# Load environment variables
+
 load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -35,8 +35,8 @@ app.add_middleware(
 Path(PDF_DIR).mkdir(parents=True, exist_ok=True)
 
 
-@app.post("/upload-pdf")
-async def upload_pdf(file: UploadFile = File(...)):
+@app.post("/upload-contract")
+async def upload_contract(file: UploadFile = File(...)):
     """
     Endpoint to upload a PDF file and save it in a local folder.
     """
@@ -52,19 +52,11 @@ async def upload_pdf(file: UploadFile = File(...)):
 
     namespace = convert_file_name_to_namespace(file.filename)
 
-    result = process_and_store_pdf_with_langchain(
-        file_path=file_path, namespace=namespace)
+    result = await process_and_store_pdf_with_langchain(
+        filename=file.filename, namespace=namespace)
 
     return {"message": "File uploaded successfully", "file_path": str(file_path), **result}
 
-
-@app.get("/list-files/")
-def list_files():
-    """
-    Endpoint to list all PDF files in the upload folder.
-    """
-    files = [f.name for f in Path(PDF_DIR).iterdir() if f.is_file()]
-    return {"files": files}
 
 
 class DomesticAirLevelRow(BaseModel):
@@ -75,11 +67,19 @@ class DomesticAirLevelRow(BaseModel):
 class DomesticAirLevelTable(BaseModel):
     rows: List[DomesticAirLevelRow]
 
-@app.get("/similar-pages")
-async def query_pdf(file_name: str, charges_band: str):
+class DomesticAirLevelRequest(BaseModel):
+    filename: str
+    charges_band: str
+
+@app.post("/query-contract")
+async def query_pdf(request: DomesticAirLevelRequest):
     """
     Query embeddings for a specific file's namespace in Pinecone.
     """
+    
+    filename = request.filename
+    charges_band = request.charges_band
+    
     query = """
     Use the attached contract to fill the table.
     the weekly charges band is {charges_band} DOMESTIC AIR SERVICE LEVEL
@@ -99,8 +99,10 @@ async def query_pdf(file_name: str, charges_band: str):
     2nd Day Air CWT All
     3 Day Select CWT All
     """.format(charges_band=charges_band)
+    
+    query += "\n If you did not find the some information in the contract, please strictly use null to fill the table."
 
-    namespace = convert_file_name_to_namespace(file_name)
+    namespace = convert_file_name_to_namespace(filename)
     vector_store = PineconeVectorStore(
         pinecone_api_key=PINECONE_API_KEY, index_name=PDF_INDEX_NAME, embedding=get_embedding_model())
     results = vector_store.similarity_search_with_score(
@@ -108,11 +110,10 @@ async def query_pdf(file_name: str, charges_band: str):
 
     context = ""
     i = 0
-    for result in results:  # Unpacking the tuple into result and score
+    for result in results:
         i += 1
         context += f"Page {i}: {result[0].page_content}\n\n"
 
-    # save in text
     with open("context.txt", "w") as f:
         f.write(context)
     
