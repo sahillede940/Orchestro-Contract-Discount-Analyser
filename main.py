@@ -81,24 +81,25 @@ async def query_pdf(request: DomesticAirLevelRequest):
     charges_band = request.charges_band
     
     query = """
-    Use the attached contract to fill the table.
-    the weekly charges band is {charges_band} DOMESTIC AIR SERVICE LEVEL
-    WEIGHT RANGE CURRENT UPS
-    Next Day Air Letter All
-    Next Day Air Package All
-    Next Day Air Saver Letter All
-    Next Day Air Saver Package All
-    2nd Day AM Letter All
-    2nd Day AM Package All
-    2nd Day Air Letter All
-    2nd Day Air Package All
-    3 Day Select Package All
-    Next Day Air CWT All
-    Next Day Air Saver CWT All
-    2nd Day Air AM CWT All
-    2nd Day Air CWT All
-    3 Day Select CWT All
-    """.format(charges_band=charges_band)
+Use the attached contract to fill the table.
+The weekly charges band is {charges_band} DOMESTIC AIR SERVICE LEVEL
+WEIGHT RANGE CURRENT UPS
+Next Day Air Letter All
+Next Day Air Package All
+Next Day Air Saver Letter All
+Next Day Air Saver Package All
+2nd Day AM Letter All
+2nd Day AM Package All
+2nd Day Air Letter All
+2nd Day Air Package All
+3 Day Select Package All
+Next Day Air CWT All
+Next Day Air Saver CWT All
+2nd Day Air AM CWT All
+2nd Day Air CWT All
+3 Day Select CWT All
+""".format(charges_band=charges_band)
+
     
     query += "\n If you did not find the some information in the contract, please strictly use null to fill the table."
 
@@ -113,11 +114,8 @@ async def query_pdf(request: DomesticAirLevelRequest):
     for result in results:
         i += 1
         context += f"Page {i}: {result[0].page_content}\n\n"
-
-    with open("context.txt", "w") as f:
-        f.write(context)
     
-    prompt = f"""
+    prompt = """
     Contract Context: 
     {context}
     

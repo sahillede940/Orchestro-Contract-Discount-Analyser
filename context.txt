@@ -1,145 +1,165 @@
-Page 1:                    Service(s)                       Lane/Zone                                           Weekly Charges Bands - ($)
-                                                                       0.01 -        8,790.00 -     13,915.00 -     19,040.00 -    24,165.00 -      43,965.00 -     58,620.00
-                                                                     8,789.99        13,914.99      19,039.99        24,164.99      43,964.99       58,619.99         and up
- UPS®Ground - Hundredweight -
- Package - Regular PickupFC TP UP                        ALL           0.00%          19.60%          22.40%          25.20%          28.00%          29.00%          30.00%
- UPS Worldwide Express®- Export -
- Letter - PrepaidAll                                     ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Express®- Export -
- Document - PrepaidAll                                   ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Express®- Export -
- Package - PrepaidAll                                    ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Express®- Export -
- Pak - PrepaidAll                                        ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Saver®- Export -
- Letter - PrepaidAll                                     ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Saver®- Export -
- Document - PrepaidAll                                   ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Saver®- Export -
- Package - PrepaidAll                                    ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
-                             ®                           ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
+Page 1:                                                Service(s)                                                           LanelZone                                                                                   Weekly Charges Bands _
+                                                                                                                                     6,864.990.00   10,869.99 10,870.00 | 14,875.00 | 18,s80.o0 | 42,545.00 [[56,725.00 |[71,725.00
+                                                                                                                                                    6,865.00                                                                                                                                                               and up
+                                                                                                                                                                                        14,874.99/18,879.99|42,544.99/56,724.99 | 71,724.99
+  Package
+         UPS Ncxt Rcgular PickupFc TP UPDay Air"                         Hundredweight -                                        ALL      0.(0%          28.00%0                            32.00%                               36.00%        40.00%                            40.30*0               40.60%               41.60%
+   UPS Next Day Air Saver                                                                    Letter                             ALL      0,00%          48.30%                             55.20V                               62.10%        69.00"                             69.30%                69.60%              70.60w
+   Prepaid FttFC TP UP
+  Prepaid FrtFC`
+                UPS Next PeyAir Saver                                                        Package                            ALL      0,00%          48.30%                              55.20%                              62.102        69.00%                             69.30%                69.60%              70.60%
+  UPS Znd Day Air AM                                                                     Cominercial                            ALL     Q.00%          4200                                48.00%                              54.00%         60.Qo%                            60.30%                60.60%              61,60%
+    Letter                   PrepaidFc TP UP
+  Package Duy Air AM_
+   UPS Znd PrepaidFC TP UP                                                               Cominercial                            ALL                     42.00%                             48.00%                              54.00%         60.00"6                           60.30%                 60.60%              61.60%
+  UPS Znd Day Air"                                                    Letter                  Prepaid                           ALL     0.00           42.00%                              48.00%                              54.00%         60.00%                            60.30%                60.60%               61.60%
+    Frtfc TPVP' RS RTP
+  UPS Znd Day Air" - Package Prepaid
+    FrtFC Tr UP RS RTE                                                                                                          ALL     0.00"          42.00%                              48.00%                              54.00%         60.Owo                           60.30%                60.60%               61.60%
+  Package_ Day Air"
+   UPS 2nd Regular PickupFCTPHundredweight -                                                                                    ALL     0.00%          28.00%                              32.Qu%                               36.00%        40.00%                            40.30%                40,60%               41.60%
+  UPS 3 PexsSelect `
+   FrtFc TP UP                            RTP                        Package                          Prepaid                   ALL     0.00%          37.10"u                             42.40%0                             47.70%         67.00%                            67.30%                67.60%               68.60%
+  Package Regular PickupFC TP Up
+                                UPS 3 Day Select ?                    Hundredweighi                                             ALL     0,00%          28.00%                              32.00%                              36.00%         40.00%                            40.30%                40.60%               41,60%
+  PrepaidFc TP TP RS RTP
+                        UPS* Ground                   CommercialPackage                                                         ALL      0.00%6        13.30%                              15.20%                              17.0           19.00%                            1930%                 19.60%              20.609
+  UPS" Ground                                          Residential Package                                                     ALL            00%0     13.30%                              15.20%                              17.109         19.00%                           19.30%                19,60%              20.60%
+   Prcpaid FrtFc TP RS RTP
+  UPSl Ground Hundred yeight
+  Package                          Regular Pickup-                                                                              ALL     0.00%          24.50%,                             28.00%                              31.50%         35.00"                            35.30w              35.6097               36.60%
+  Letter _ Prepaid I
+                    UPS Worldwide Express                                                   Export                             ALL      (.00%          10.50%                              12.00%                              13.50%         15,0080                           16,50%               18.00%                19.00%
+  UPS Worldwidc Express
+   Document                              Prepaid                                            Export                             ALL      0.Oorfa        10,50%                              12.00%                              13.50%         15,00%                           16.50%                 IS.00%               19.00%
+  UPS WorldwideExpress                                                                     Export -                            ALL      0.00%          I0.50%                              12.00%                              13.50%         15.00%                            16.50%                18.00%              19.00%
+ Package                           Prepaid'
+  UPS Worldwide Express
+  Pak               Prepaid-                                                                Export -                           ALL      0.O0%          [0.50%                              12.00%                              13.50%         15.00%.                           16.50%               18.00%               19.00%
+  UPS Worldwide SaverPrepaid "                                                       Export                                    ALL     0.O0%          10.50%                                12.00%                             13.50%         15,00%                            16.s09              18.00%                19.00%
+   Letter
+  UPS Worldwide Saver                                                                Export                                     ALL     0.0u%          10.509                              12.00%                              13.509         15.00%                            16.50%                18.00"               19.00"
+  Document                                Prepaid"
  UPS Worldwide Saver
- PrepaidAll                    - Export - Pak -
- UPS Worldwide Export Express Freight                    ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- MiddayTMPallet AllAll CL
- UPS Worldwide Export Express                            ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- FreightTM Pallet AllAll CL
- UPS Worldwide Expedited®- Export -
- Document - PrepaidAll                                   ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS Worldwide Expedited®- Export -
- Package - PrepaidAll                                    ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
- UPS®Standard to Canada - Export -
- Package - PrepaidAll                                    ALL           0.00%          10.50%          12.00%          13.50%          15.00%          16.00%          17.00%
-For the first 4 week(s) of this agreement, discounts per the schedule for eligible services will be applied based on published charges per week of
-$29,310.75.
-After the first 4 week(s) of this agreement, average weekly published charges per week will be based on week 4 through the week prior to the current
-billing week not to exceed 52 week(s). Average weekly published charges per week is defined as the revenue from eligible and committed services
-for the given time period divided by the number of week(s) in the time period.
-The following products will be included in determining the appropriate bands of the customer: Service(s) listed in Group(s) All Small Package
-Freight, All International Import, All UPS Freight, All UPS Ground with Freight Pricing* of the Committed Services section at the end of the
-Addendum B .
-For the purposes of determining the appropriate band of the customer, UPS will consider activity by the account numbers specified in Addendum A ,
-Section 3.
+ Package_                         Prcpaid^l                                          Export                                    ALL     0.o0%           10.507                             12.00%                               13.50%         15,00%                           16.50%                18.00%               19.00%
+ Prepaid M
+          UPS Worldwide Saver"                                                       Export -                  Pak             ALL     0.Oow           10.50"                              12.00%                              13.50%        15.00%                           16.50%                18.009                19.00%
+ UPS Worldwide Expoa Express
+  FreightTy Pallet                                                                                                             ALL     0.00%          10,50%                              12,00%                               13.50%        15.00%                             16.50%               18,00"               19.00%
+  UPS Worldiide
+  Document                             Fidp Eixedited: Export                                                                  ALL     0.00%          10.50%                              12.00%                               13.50%        15.00%                            16.50%                18.00%              19.00%
+Package
+       UPS WorldwvidedvideExpedited                                                               Export                       ALL     0.0o%          10.50%                              12.00%                               13.50%        15.00%                            16.50%                18.00%              19.00%
+Packege_ Prepaid4M
+                  UPS Standard t0 Canada                                                  Expor                               ALL       0.00%a         10.50%                             12.00%                               13.50%        15.00%                             16.50%               18.00"              19.00%
+ UPSDocument - PrepaidA"lStandard t0 Mcxico                                               Export                               ALL      0.00%         [0,50%                              12.00%                              13.50%         15.00%                             16.50%0              18.00%              19.00%
+ UPS* Standard to Mexico - Export -
+ Package_                                                                                                                     ALL       0.0o%         10.50%                              12.00%                               13.50wa       15.00%                             16.50%               18.00%              19.00%
+                                  Prepaid
+                                                                                                                                                                                                                                                                                                               P210031636
+                                                                                                                                                                                                                                                       Addendun to Carrier Agreement Page 16 0f 23
 
-Minimum Net Charge
-For each shipment, Customer agrees to pay the greater of the (a) net shipment charge based on the above incentives or (b) the minimum net shipment
-charge. When applicable, Minimum net shipment charge is calculated by deducting the applicable percent off (by zone) in the table below from the
+Page 2:     (Cuntinued}
+       67f                    681                     682                    683                    684                   685                 686     687                   688                     689                  691                  692                    693
+     50,00%               ~SQ.00%                 {0.00*6               {0.007                                        50.00"             30.00"                                               Su.00%               So,o05                SQ.0u%                 {0.00%
+ Incentives effective from June 3.2017 to April 20, 2047,
+    Service: UPS"Jb Rate Per Shipment Per Zone (S) Import -Standard from Canada                                Package            Freight Collect"          Adjustment to
+    the
+                               376                                                                   378                                                380
+                             0,00%6                                                                  J00%u
+ Incentivcseffective from June 3. 2017 to April 20, 2047.
+    Collect ""
+              Service: UPS " Standard from Mexico                                          Import             Document -Freight
+                            Adjustmcnt to thc                           Ib Rate Per Shipment Per Zonc
+        362                    363                    364                    365-                   366                    367                368
+     50,00%6              -50.002                 30.00%                                       -O.0O%a                                     S0.OY
+Incentives effective from June 3. 2017 to April 20.2047.
+     Scrvice: UPS" Standard from Mexico                                                   [mport - Package                       Freight
+     Collect:               Adjustment to the                           Ib Rate Per Shipment Per Zone (S
+        362                    363.                   364                    365                    366                    367                368
+                                                 -50.OO%                                        "50.004                 5(.00"6          ~o.0o"
+                                      Service                                                     Minimum                         Zone                                                   Base Rate                                                                     Adjustment
+                                                                                                          Pcr
+  Incentives effcctive from June 3,2017to April 20,2047.
+ FrtFc" TP UP RS
+                UPS Ncxt RBryAir'                     Lettcr           Prepaid                        Letter                      ALL                           UPS Next Day Air" Zone 102                                                                                    -[.80
+  Incentives effective fiom June 3,2017 40 April 20, 2047 .
+  Prepaid FrtFC
+               UPS Next Deyp AirUP RS RTP"Package                                                  Package                        ALL                      UPS Next Day Air                              Zone 102                                                             -14.00
+  Incentives effective from June 3. 2047 to April 20,.2047.
+  UPS Next: Pay Air Saver
+  Prepaid FxtFc=                                                    Letter                             Letter                     ALL                    UPS Ncxt Day Air Saver                                       Zone 132                                                -130
+   Incentives effective froin June 3. 2017 t0 April 2U, 2047.
+  UPS Next Payrtl
+  Prepaid Frt'c                       Air Saver                     Packagc                          Package                      ALL               UPS NextDuy Air Saver                                        Zone 132                                                     -12.70
+   Incentivcs effective from June 3,2017 toApril20.2047.
+  UPS 2nd Day Air AM
+  Commercial Letter - PrepaidFC TPUr                                                                   Letter                     ALL                      UPS Znd Day Air AM.                                      Zone 242                                                   -7.70
+  UPS Znd Day Air AM
+                    Incentives effective from June 3, 2047 to April 20,2047. ALLPrcpaidfc TP Ur    Package                                            UPS ZndDay Air AM                                       Zone 242 1 Ib                                                    -7.70
+  Commercial Package
+   Incentives effective from June 3 , 201                                                         April 20.2047.
+  UPS 2nd Day Air
+  FrtFc TP CP RS RTP                               Letler            Prepaid                           Letter                     ALL                             UPS ZndDay Air'                            Zone 202                                                          ~6.90
+   Incentives effective from June 3201"                                                            April 20. 2047
+  UPS Znd                         TP UP RS RT?Air" Package                                          Package                       ALL                       UPS 2ndDay Air" Zone 202 1 !b                                                                                      ~6.90
+   Precpaid
+   Incentives effective from June 3, 201                                                          April 20,2047
+  UPS 3 Day Select'
+  Prepaid Fft"€ TP UP RS RTPPackage                                                                 Package                       ALL                       UPS 3 Day" Select* Zone 302                                                                                        -150
+   Incentives effective fron June 3. 2017 to April 20.2047-
+                                                                                                                                                                                                                                                                                      F210031636
+                                                                                                                                                                                                                                Addendum ta Carrier Agreement Page 22 0f 23
+
+Page 3:                                                Service(s)                                                                   LanelZone                                                                                                               Weekly Charges Bands _ (S)
+                                                                                                                                                                      0.00                      6,865.00
+                                                                                                                                                                                                        10,869.99 10,870.00| 14,875.00 | 18,880.00 | 42,545.00 ||56,725.00 | 71,725.00
+                                                                                                                                                                  6,864.99                                                      14,874.99/18,879.99 |42,54499[56.724.99/71,72499                                                                                                            and up
+        UPS WorldwideFrcight CollcctAIExpress'                                        Import -                                          ALL                           0.0090                        10.50%                          12.009                          13,0%                            15.00%                          16.50%                18.00%                           19.00%
+         Lcttcr
+         UPS Worldivide Express                                                        Import                                           ALL                          0.00%                          10.50%                          12.0(Wo                         13.S0%                          15.00%                           16.50%                18.00%                           19.00%
+         Document                           Freight Collect^I
+       Package Freighl _ CollectAli Import _
+                                            UPS Worldwvide Express                                                                     ALL                           0.O0w                          10.50%                          12.00%                         13.50%                          15.00%                           16.50%                 18.00%                          19.00%
+        Letter__ Frcight CollectAl Import -
+                                           UPS Worldwide Saver                                                                         ALL                           0.00%/                         10.50%                          12.00%                          13.50%                          15.00%                          16.50%                 I8.00%                         19.00%
+        UPS Worldwide Saver F                                                    [iport -                                              ALL                          0.00%                           10.50"                         12.00%                           13.02                           15.00%                          16.50%                 18.00%                         19.00%
+         Document                         Freight CollectA"
+        UPS Worldivide Saver                                                     Import                                                ALL                          Q.00%                           10.50%                         12.00%                           13.50%                          15.00%                         16.50%                 18.00%                           19.00%
+        Packagc                      Freight CollectI
+        UPS Worldwide Import Express                                                                                                   ALL                          0.00%                           10,509                          12.00%                         1350%                            15.00%                         16.50%                 I8.00%                           19.00%
+        FreightrM Pallet AIlAU
+       UPS Worldwide Expedited"Freight CollectAII Import                                                                               ALL                          0.00%                          10.50%                           12.U0%                         13.50%                          15.00%                           16,s0%                 18.0u%                          19.00"
+        Document
+       UPS Worldwide Expedited
+        Package                     Freight Collect"                                        Import                                     ALL                          0.00%                          10.50%                          12.00%                          13.50%                          15.00V                          16.50%                  18.00%                         19.00%
+       UPS" Standard from Canada - Import
+       Package_ Freight Collect "                                                                                                      ALL                          0.00%                          10.50%0                         12.009                          [3.50%                          15.00%                           16.502                18.00%                          19.00%
+        UPS              Standard from MexicoFreight CollectA/ Import                                                                 ALL                            0.00"                         I0.50%                          12.00%                          13.50%                          15.00"                          16.50"                 18.00%                          19.00%
+        Document
+       UPS * Standard from Mcxico -Freight CollcctAII                                         Import                                  ALL                           0.00%                          10.50%                          12.00%                          13.50w                          15.00%                          16.50%                 18.00%6                         19.00%
+        Package
+  Average Weekly published charges per week will be based On the most recent 32 week(s) (once 52 iveek(s) have been accumulatcd) cxcluding ihc
+   cumTentbilling wcck. Average wcckly published charges per wcck is defined as the published charges per week from all eligible and committed
+  services for the given time period divided by the number of week(s) in the lime period.
+  Incentives effective from March 23, 2019 t0 April 20, 2047. The following products will be included in determining the appropriate bands of the
+  Services section at the end of ! the Addendum B
+                                                 customer:Service(s) listed in Group(s) All Smali Package Freight, All International Import, All UPS Ground with Freight Pricing                                                                                                                                                                                          of the Committed
+  Minimum Net Charge
+ charge: When applicable; Minimumn net shipment charge is calculated by deducling the applicable percent off (by zone) in the (able below from the
+                                                                                                                                                  For each shipment; Customer agrees t0 pay the grcater of the (a) net shipment charge based on the above incentives or (b) the minimum net shipient
 published list rate for the respective service.
-
-                                        ® - Export - Letter - PrepaidAll - Adjustment to the Rate Per Letter Per Zone ($)
- Service: UPS Worldwide Express
-    081         082         084         901         902         903          904         905         906         907         908         909         911         912          913
- -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00% -40.00%
-
- (Continued)
-    920         921
- -40.00% -40.00%
-
-                                                                                                                                                                  \bns\P640028888 - 01\bne\
-                                                                                                                                                        Addendum B Page 9 of 14
-
-Page 2: Manifest Summary, Hundredweight Shipping Document, Paper Waybill, Air Shipping Document, Shipping Record (SRB/SRM), Consignee Billing
-Paper Books. All other shipment information will be considered electronic PLD.
-
-Notes:
-1. Incentives are based on and derived from the most recently published Daily Rates and adjusted periodically pursuant to the terms and conditions
-   of the Carrier Agreement. Updated rate charts will be made available to Customer by contacting your UPS account executive.
-3. For UPS Freight services, the rolling average used to calculate the tier band will be based on net transportation charges that will be one week
-   behind the small package net transportation charges used to calculate the tier.
-All Includes all available billing options and return services with the exception of WorldEase, Consolidated Clearance and ARS services. Please refer
-   to the UPS Tariff/Terms and Conditions for additional information on available billing options.
-FC The incentives will be extended to Freight Collect Shipments and Undeliverable Packages Freight Collect where applicable for the zones listed.
-TP The incentives will be extended to Third Party Shipments and Undeliverable Packages Third Party where applicable for the zones listed.
-UP Undeliverable Packages will be returned as specified in the UPS Terms and Conditions. Any incentives in effect at the time of shipment for the
-RS The incentives will be extended to Return Services where applicable for the zones listed.
-                                                                                            service in which an undeliverable package is shipped will be applied to the undeliverable package.
-RTPThe incentives will be extended to Third Party Return Services where applicable for the zones listed.
-S0 The incentives will be extended to Consignee Billing
-* UPS Ground with Freight Pricing is committed based on net transportation charges.
-CL Worldwide Express Freight service and Worldwide Express Freight Midday service are not available to all countries. For a current list of available
-   countries, visit http://www.ups.com/media/en/gb/wwef_country_list.pdf
-
-                                                                                                                                                                               \bns\P640028888 - 01\bne\
-                                                                                                                                                                   Addendum B Page 14 of 14
-
-Page 3: UPS Worldwide Express® - Export - Letter - PrepaidAll - Incentives Off Effective Rates - 47.00%
-UPS Worldwide Express® - Export - Document - Prepaid All - Incentives Off Effective Rates - 47.00%
-UPS Worldwide Express® - Export - Package - PrepaidAll- Incentives Off Effective Rates - 47.00%
-UPS Worldwide Express® - Export - Pak - PrepaidAll - Incentives Off Effective Rates - 47.00%
-UPS Worldwide Saver® - Export - Letter - PrepaidAll - Incentives Off Effective Rates - 47.00%
-UPS Worldwide Saver® - Export - Document - Prepaid All - Incentives Off Effective Rates - 47.00%
-UPS Worldwide Saver® - Export - Package - PrepaidAll- Incentives Off Effective Rates - 47.00%
-UPS Worldwide Saver® - Export - Pak - PrepaidAll - Incentives Off Effective Rates - 47.00%
-                                                              TM Pallet AllAll CL - Incentives Off Effective Rates
-UPS Worldwide Export Express Freight Midday
-   Zones
-    ALL
-   47.00%
-
-         Destination                 Zone          Incentives
- Canada                              ALL             15.00%
- Mexico                              ALL             15.00%
-Incentives effective from July 15, 2017 to June 17, 2045.
-UPS Worldwide Export Express FreightTMPallet AllAll CL - Incentives Off Effective Rates
-   Zones
-    ALL
-   47.00%
-
-         Destination                 Zone          Incentives
- Canada                              ALL             15.00%
- Mexico                              ALL             15.00%
-UPS Worldwide Expedited® - Export - Package - PrepaidAllAll - Incentives Off Effective Rates - 47.00%® - Export - Document - Prepaid
-UPS Worldwide Expedited                                                     - Incentives Off Effective Rates - 47.00%
-UPS®Standard to Canada - Export - Package - PrepaidAll - Incentives Off Effective Rates - 7.00%
-
-Portfolio Tier Incentive
-Each eligible package will receive an incentive per the following schedule based on a 52 week rolling average of eligible package charges invoiced to
-customer. The band determination is based on the average published charges per week for eligible services (excluding accessorials and surcharges,
-unless otherwise specified). The incentives will be administered on a weekly basis.
-                  Service(s)                       Lane/Zone                                            Weekly Charges Bands - ($)
-                                                                       0.01 -       8,790.00 -     13,915.00 -     19,040.00 -     24,165.00 -     43,965.00 -     58,620.00
-                                                                     8,789.99       13,914.99       19,039.99       24,164.99       43,964.99      58,619.99         and up
- UPS Next Day Air®- Letter - Prepaid
- FrtFC TP UP RS RTP                                     ALL           0.00%          47.60%          54.40%          61.20%          68.00%          68.50%          69.00%
- UPS Next Day Air®- Package - Prepaid
- FrtFC TP UP RS RTP                                     ALL           0.00%          47.60%          54.40%          61.20%          68.00%          68.50%          69.00%
-                                ®                       ALL           0.00%          47.60%          54.40%          61.20%          68.00%          68.50%          69.00%
- UPS Next Day Air Saver
- Prepaid FrtFC TP UP             - Letter -
- UPS Next Day Air Saver®- Package -
- Prepaid FrtFC TP UP                                    ALL           0.00%          47.60%          54.40%          61.20%          68.00%          68.50%          69.00%
- UPS 2nd Day Air A.M.®- Commercial
- Letter - PrepaidFC TP UP                               ALL           0.00%          40.60%          46.40%          52.20%          58.00%          58.50%          59.00%
- UPS 2nd Day Air A.M.®- Commercial
- Package - PrepaidFC TP UP                              ALL           0.00%          40.60%          46.40%          52.20%          58.00%          58.50%          59.00%
- UPS 2nd Day Air®- Letter - Prepaid                     ALL           0.00%          40.60%          46.40%          52.20%          58.00%          58.50%          59.00%
- FrtFC TP UP RS RTP
- UPS 2nd Day Air®- Package - Prepaid
- FrtFC TP UP RS RTP                                     ALL           0.00%          40.60%          46.40%          52.20%          58.00%          58.50%          59.00%
- UPS 3 Day Select®- Package - Prepaid
- FrtFC TP UP RS RTP                                     ALL           0.00%          40.60%          46.40%          52.20%          58.00%          58.50%          59.00%
- UPS®Ground - Residential Package -
- Prepaid FrtFC TP RS RTP                                ALL           0.00%           5.60%           6.40%           7.20%           8.00%           8.50%          9.00%
-                                                                                                                                                                 \bns\P640028888 - 01\bne\
-                                                                                                                                                       Addendum B Page 8 of 14
+  Incentives effective from June 3, 2017 to April 20, 2047
+       Service: UPS Worldwide Express 901 Export - Letter _ Prcpeid" 904
+           USI                          082                        084                                                     902                         9u3                          Adjustment to the Rate Per Letter Per Zone (5)905     906                         907                         908                         909                  911                      912                         9[3
+      -40.(urp                   40.00?6                     40.00*0                     -40,00"o                   -40.00"&                                                -40.0ua                     440.00%                     -40.00"                     30,00%                                                  -4u.uo"a             40.002                    40.00%                      40.00"
+      (Continued)
+           920                         921
+     40.00"a                     40.00*
+Incentives effeclive from June 3,2017 t0 April 20, 2047.
+      Servicc: UPS_Worldwide Exprcss _                                                                Export                  Document                        Prepaid-'l                      Adjustucntto the L Ib Rate Per Shipment Per_ Zune (S)
+          081                         082                         084                         901                        902                         903                         904                         9u5                         906                         907                         908                         909                   911                      912                         913
+    40.0uvo                     40.0056                     40.009#                     40.00%                      -40.O"/                     440.009                     40.00%                     40.OD"                       40,0*                      -0.QO                       -40.00%6                    70.00%                40.00%                   40.00%                      -40.00%
+                                                                                                                                                                                                                                                                                                                                                        Agrecment Page !7 of 23P2i0031636
+                                                                                                                                                                                                                                                                                                           Addendum to Canier
 
